@@ -1,0 +1,10 @@
+C:\Users\vaishnavi\source\repos\PIA_Public\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\bin\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.deps.json
+C:\Users\vaishnavi\source\repos\PIA_Public\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\bin\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.dll
+C:\Users\vaishnavi\source\repos\PIA_Public\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\bin\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.pdb
+C:\Users\vaishnavi\source\repos\PIA_Public\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\obj\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.csproj.AssemblyReference.cache
+C:\Users\vaishnavi\source\repos\PIA_Public\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\obj\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaishnavi\source\repos\PIA_Public\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\obj\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.AssemblyInfoInputs.cache
+C:\Users\vaishnavi\source\repos\PIA_Public\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\obj\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.AssemblyInfo.cs
+C:\Users\vaishnavi\source\repos\PIA_Public\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\obj\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.csproj.CoreCompileInputs.cache
+C:\Users\vaishnavi\source\repos\PIA_Public\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\obj\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.dll
+C:\Users\vaishnavi\source\repos\PIA_Public\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\obj\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.pdb
